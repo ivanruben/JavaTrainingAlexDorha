@@ -12,6 +12,7 @@ PersoanaStudent persoanaStudent = new PersoanaStudent("Gigi","Craca",55 );
 PersoanaStudentAngajat persoanaStudentAngajat = new PersoanaStudentAngajat("Jibli","Toru",25 );
 
 persoanaAngajat.munceste();
+new
 persoanaStudent.invata();
 persoanaStudentAngajat.invata();
 persoanaStudentAngajat.munceste();
