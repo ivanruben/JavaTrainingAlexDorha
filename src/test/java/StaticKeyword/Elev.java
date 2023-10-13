@@ -23,35 +23,5 @@ public class Elev {
         nrElevi++;
     }
 
-    public String getNume() {
-        return nume;
-    }
 
-    public void setNume(String nume) {
-        this.nume = nume;
-    }
-
-    public String getPrenum() {
-        return prenum;
-    }
-
-    public void setPrenum(String prenum) {
-        this.prenum = prenum;
-    }
-
-    public int getVarsta() {
-        return varsta;
-    }
-
-    public void setVarsta(int varsta) {
-        this.varsta = varsta;
-    }
-
-    public static String getScoala() {
-        return scoala;
-    }
-
-    public static void setScoala(String scoala) {
-        Elev.scoala = scoala;
-    }
 }
